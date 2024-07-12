@@ -1,3 +1,22 @@
+header  {
+  background-color: #28A745;
+}
+
+@media (max-width: 767px) {
+  .navbar-brand img {
+    width: 100%;
+    height: auto;
+    max-width: 86px;
+    max-height: 25px;
+  }
+}
+
+.nav-link {
+  color: whitesmoke;
+  
+}
+
+
 .separator {
   height: 1px;
   background-color: #dee2e6;
